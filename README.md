@@ -1,1 +1,1 @@
-# UPES_face_recognation_system
+# Intelligent Face Recognition Attendance System For UPES Students
