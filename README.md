@@ -7,4 +7,4 @@
 
 - **[@ChiragShankla](https://github.com/ChiragSankhla1902)**
 
-- **[@TanmaySinghal](https://github.com/tanm05)**
+- **[@TanmaySinghal](https://github.com/tanm226)**
